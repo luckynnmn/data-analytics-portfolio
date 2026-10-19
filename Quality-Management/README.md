@@ -10,3 +10,4 @@ Owned quality and accuracy KPIs across 8 projects, driving measurable improvemen
 
 ## Files in this folder
 - `AssistantQualityManager_projectsoutcome.pdf` – full project outcomes and performance report
+- `Senior Quality Analyst (Gear Inc.).pdf` - gaming project outcomes and performance report
